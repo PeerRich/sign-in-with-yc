@@ -1,6 +1,6 @@
 ## About this repo
 
-Written by @helenamerk, initially released inside OrangeDAO and republished for public use.
+Written by [@helenamerk](https://github.com/helenamerk), initially released inside OrangeDAO and republished for public use.
 
 `yc-auth` is a react app that lets people signin with their bookface login. Enjoy!
 
