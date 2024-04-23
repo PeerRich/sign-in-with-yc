@@ -1,5 +1,7 @@
 ## About this repo
 
+Written by @helenamerk, initially released inside OrangeDAO and republished for public use.
+
 `yc-auth` is a react app that lets people signin with their bookface login. Enjoy!
 
 `backend/src/signin-with-yc.js` is a simple script that you can take a look at and modify for your needs. If you want auth on the backend, you want to plop that logic in there somewhere.
